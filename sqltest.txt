@@ -1,2 +1,3 @@
-Select * from l1_tables.user_profiles_view_1
+Select * from l1_tables.user_profiles_view
+Select * from l1_tables.revenue
 Select * from vui_app_report
