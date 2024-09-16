@@ -1,0 +1,1 @@
+Select * from paylater.paylater_eligible_users
