@@ -1,4 +1,5 @@
 Select * from l1_tables.user_profiles_view
 Hieu change
+new change in main
 Select * from l1_tables.revenue
 Select * from vui_app_report
