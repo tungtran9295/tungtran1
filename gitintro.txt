@@ -1,0 +1,13 @@
+git --version -> check version cuả git
+pwd (print working directory) -> show current directory
+cd (change directory) 
+ls -> show all files and directories
+ls -a -> show also hidden files and directories
+git clone -> clone from remote repo
+git status -> check status cua localrepo
+git add <file> -> add file to staging
+git commit -> write message then create a new commit
+git diff -> check difference before and after modifying files
+git diff --cached -> check difference between staging and parent commit
+git log -> check history tree
+git log --oneline -> history tree and oneline subject
