@@ -1,0 +1,2 @@
+Select * from l1_tables.user_profiles_view_1
+Select * from vui_app_report
