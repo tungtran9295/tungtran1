@@ -11,3 +11,5 @@ git diff -> check difference before and after modifying files
 git diff --cached -> check difference between staging and parent commit
 git log -> check history tree
 git log --oneline -> history tree and oneline subject
+git push -> push to remote
+git pull -> pull from remote (should not use) nen dung git remote update
